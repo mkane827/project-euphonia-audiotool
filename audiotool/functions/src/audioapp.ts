@@ -691,4 +691,4 @@ export class AudioApi {
   }
 }
 
-exports.audioapp = AudioApi.install();
+export const audioapp = AudioApi.install();
