@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "module": "amd",
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "noImplicitAny": false,
